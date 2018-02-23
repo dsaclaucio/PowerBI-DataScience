@@ -2,3 +2,5 @@ Excel.Workbook([Content])
 Csv.Documento([Content])
 
 Text.PositionOf("FL")
+
+https://synoptic.design/ (construir sinoptics, mapas)
